@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Shenglu Hua's personal page"
+description              : " Undergraduate student at the Future School of Beijing University of Posts and Telecommunications, 
+focusing on AI4Science research with particular interest in graph neural networks, deep generation model, and their applications in circuit design."
 repository               : "shengluhua/shengluhua.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -16,7 +17,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "shenglu hua"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
