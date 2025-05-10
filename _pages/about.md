@@ -19,22 +19,11 @@ redirect_from:
 
 <div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">   <div class="profile-content" style="flex: 1;">     <h1 style="margin-top: 0;">Hua Shenglu</h1>     <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Computer Science Undergraduate | AI4Science Researcher</p>     <p>Undergraduate student at the Future School of Beijing University of Posts and Telecommunications, focusing on AI4Science research with particular interest in graph neural networks, deep generation models, and their applications in circuit design.</p>
 
-```
-<div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <a href="https://github.com/shengluhua" class="btn" style="display: flex; align-items: center; background-color: #24292e; color: white; text-decoration: none; padding: 8px 15px; border-radius: 6px; font-family: Arial, sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" style="margin-right: 10px;" viewBox="0 0 16 16">
-      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-    </svg>
-    GitHub
-  </a>
-  <a href="mailto:huashenglu@bupt.edu.cn" class="btn" style="display: flex; align-items: center; background-color: #0078D4; color: white; text-decoration: none; padding: 8px 15px; border-radius: 6px; font-family: Arial, sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" style="margin-right: 10px;" viewBox="0 0 16 16">
-      <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
-    </svg>
-    Email
-  </a>
-</div>
-```
+Contact Information
+
+- Email: huashenglu@bupt.edu.cn
+- Wechat: Esther0095
+
 
   </div>  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">    <!-- You can add your profile photo here -->    <!-- <img src="images/profile.jpg" alt="Hua Shenglu" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;"> -->  </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
