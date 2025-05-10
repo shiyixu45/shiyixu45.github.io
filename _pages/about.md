@@ -21,7 +21,7 @@ redirect_from:
 
 <div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">   <div class="profile-content" style="flex: 1;">     <h1 style="margin-top: 0;">Hua Shenglu</h1>     <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Computer Science Undergraduate | AI4Science Researcher</p>     <p>Undergraduate student at the Future School of Beijing University of Posts and Telecommunications, focusing on AI4Science research with particular interest in graph neural networks, deep generation models, and their applications in circuit design.</p>
 
-```
+
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Contact Information</h3>
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
@@ -29,7 +29,7 @@ redirect_from:
     <li>💬 <strong>WeChat:</strong> Esther0095</li>
   </ul>
 </div>
-```
+
 
   </div>  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">    <!-- Profile photo placeholder -->    <!-- <img src="images/profile.jpg" alt="Hua Shenglu" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;"> -->  </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
@@ -53,4 +53,3 @@ redirect_from:
 
 <div class="awards-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">National Competitions</h4>     <ul style="padding-left: 20px;">       <li>National College Student Mathematics Competition</li>       <li>National Electronic Design Competition</li>       <li>National College English Competition</li>     </ul>   </div>   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">Scholarships & Honors</h4>     <ul style="padding-left: 20px;">       <li>Industrial and Commercial Bank of China Scholarship</li>       <li>University Scholarships</li>       <li>Outstanding Student Award</li>     </ul>   </div> </div> <div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">   <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="#" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p> </div>
 
-rid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">National Competitions</h4>     <ul style="padding-left: 20px;">       <li>National College Student Mathematics Competition</li>       <li>National Electronic Design Competition</li>       <li>National College English Competition</li>     </ul>   </div>   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">Scholarships & Honors</h4>     <ul style="padding-left: 20px;">       <li>Industrial and Commercial Bank of China Scholarship</li>       <li>University Scholarships</li>       <li>Outstanding Student Award</li>     </ul>   </div>  </div> <div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">   <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="#" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p> </div>
