@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Shenglu Hua's personal page"
-description              : " Undergraduate student at the Future School of Beijing University of Posts and Telecommunications, 
-focusing on AI4Science research with particular interest in graph neural networks, deep generation model, and their applications in circuit design."
+description              : "Computer Science Undergraduate | AI4Science Researcher"
 repository               : "shengluhua/shengluhua.github.io"
 google_scholar_stats_use_cdn : true
 
