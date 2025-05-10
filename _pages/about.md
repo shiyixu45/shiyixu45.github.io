@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">   <div class="profile-content" style="flex: 1;">     <h1 style="margin-top: 0;">Hua Shenglu</h1>     <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Computer Science Undergraduate | AI4Science Researcher</p>     <p>Undergraduate student at the Future School of Beijing University of Posts and Telecommunications, focusing on AI4Science research with particular interest in graph neural networks, deep generation models, and their applications in circuit design.</p>
 
-Contact Information
+**Contact Information**
 
 - Email: huashenglu@bupt.edu.cn
 - Wechat: Esther0095
