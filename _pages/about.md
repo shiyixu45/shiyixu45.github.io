@@ -56,5 +56,26 @@ redirect_from:
 <span class='anchor' id='awards-honors'></span>
 ## 🏆 Awards & Honors
 
-<div class="awards-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">National Competitions</h4>     <ul style="padding-left: 20px;">       <li>National College Student Mathematics Competition</li>       <li>National Electronic Design Competition</li>       <li>National College English Competition</li>     </ul>   </div>   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">Scholarships & Honors</h4>     <ul style="padding-left: 20px;">       <li>Industrial and Commercial Bank of China Scholarship</li>       <li>University Scholarships</li>       <li>Outstanding Student Award</li>     </ul>   </div> </div> <div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">   <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="#" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p> </div>
+<div class="awards-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
+  <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">
+    <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">National Competitions</h4>
+    <ul style="padding-left: 20px;">
+      <li>National College Student Mathematics Competition</li>
+      <li>National Electronic Design Competition</li>
+      <li>National College English Competition</li>
+    </ul>
+  </div>
+  <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">
+    <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">Scholarships & Honors</h4>
+    <ul style="padding-left: 20px;">
+      <li><strong style="color: red;">Beijing Natural Science Foundation Recipient</strong> ("Qiyan" Program for Undergraduates) </li>
+      <li>Industrial and Commercial Bank of China Scholarship</li>
+      <li>University Scholarships</li>
+      <li>Outstanding Student Award</li>
+    </ul>
+  </div>
+</div>
+<div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+  <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="#" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p>
+</div>
 
