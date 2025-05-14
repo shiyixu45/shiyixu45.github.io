@@ -68,7 +68,7 @@ redirect_from:
   <div class="awards-card" style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); height: 100%;">
     <h4 style="color: #0066cc; margin-top: 0; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">Scholarships & Honors</h4>
     <ul style="padding-left: 20px;">
-      <li><strong style="color: red;">Beijing Natural Science Foundation Recipient</strong> ("Qiyan" Program for Undergraduates) </li>
+      <li><strong style="color: red;">Beijing Natural Science Foundation Recipient</strong><br>("Qiyan" Program for Undergraduates)</li>
       <li>Industrial and Commercial Bank of China Scholarship</li>
       <li>University Scholarships</li>
       <li>Outstanding Student Award</li>
