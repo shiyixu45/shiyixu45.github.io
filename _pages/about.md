@@ -215,11 +215,6 @@ redirect_from:
 </div>
 <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
-<!-- <span class='anchor' id='publications'></span> -->
-📝 Publications
-
-<div class="publications-container">   <div class="publication-item" style="padding: 20px; margin-bottom: 20px; border-left: 4px solid #0066cc; background-color: #f8f9fa; border-radius: 0 4px 4px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">     <h4 style="margin-top: 0;">Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits</h4>     <p style="margin-bottom: 0;"><em>Under review at ICCAD 2025</em> | <strong>First Student Author</strong></p>   </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
-
 <span class='anchor' id='awards'></span>
 ## 🏆 Selected Awards
 
