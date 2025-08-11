@@ -58,7 +58,7 @@ redirect_from:
 </div>
 <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
-<span class='anchor' id='papars'></span>
+<span class='anchor' id='papers'></span>
 ## 🔬 Papers
 
 <div class="research-container">
@@ -248,6 +248,6 @@ redirect_from:
   </div> -->
 </div>
 <div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
-  <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="_data/ShiyiXu_CV.pdf" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p>
+  <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="assets/downloads/ShiyiXu_CV.pdf" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p>
 </div>
 
