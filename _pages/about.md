@@ -19,14 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">   <div class="profile-content" style="flex: 1;">     <h1 style="margin-top: 0;">Shiyi Xu</h1>     <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Artificial Intelligence Undergraduate | LLM Researcher</p>     <p>I am an undergraduate student at the Gaoling School of Artificial Intelligence, Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the <a href="http://aibox.ruc.edu.cn/" target="_blank">RUC AI Box</a> lab. My primary research focus on the pre-training, complex reasoning and evaluation of large language models.</p>     <p>If you want to discuss or collaborate with me, please feel free to contact me anytime in any way.</p>
+<div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">   <div class="profile-content" style="flex: 1;">     <h1 style="margin-top: 0;">Shiyi Xu | 徐十一</h1>     <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Artificial Intelligence Undergraduate</p>     <p>I am an undergraduate student at the Gaoling School of Artificial Intelligence, Renmin University of China, where I conducted research under the supervision of Professor Wayne Xin Zhao in the <a href="http://aibox.ruc.edu.cn/" target="_blank">RUC AI Box</a> lab. My primary research focus on the <strong>pre-training, complex reasoning and evaluation of large language models</strong>.</p>     <p>If you want to discuss or collaborate with me, please feel free to contact me anytime in any way.</p>
 
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Contact Information</h3>
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-    <li>  <strong>Email:</strong> shiyixu45@gmail.com</li>
-    <li>  <strong>Github:</strong> shiyixu45</li>
+    <li><i class="fas fa-envelope" style="margin-right: 8px; color: #0066cc;"></i><strong>Email:</strong> shiyixu45@gmail.com</li>
+    <li><i class="fab fa-github" style="margin-right: 8px; color: #0066cc;"></i><strong>Github:</strong> shiyixu45</li>
   </ul>
 </div>
 
@@ -58,7 +58,7 @@ redirect_from:
 </div>
 <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
-<span class='anchor' id='research-experience'></span>
+<span class='anchor' id='papars'></span>
 ## 🔬 Papers
 
 <div class="research-container">
@@ -167,7 +167,7 @@ redirect_from:
         <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column;">
             <div>
                 <span style="background-color: rgb(207, 81, 186); color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.75em;">Finished Project</span>
-                <h4>"Detection of Student Depression Issues Based on Machine Learning Algorithms</h4>
+                <h4>Detection of Student Depression Issues Based on Machine Learning Algorithms</h4>
                 <p style="color: #666; font-size: 0.9em;"><strong>2023 - 2024</strong></p>
             </div>
             <ul style="font-size: 0.9em; padding-left: 20px; margin-top: auto;">
@@ -215,12 +215,12 @@ redirect_from:
 </div>
 <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
-<span class='anchor' id='publications'></span>
-<!-- ## 📝 Publications
+<!-- <span class='anchor' id='publications'></span> -->
+📝 Publications
 
 <div class="publications-container">   <div class="publication-item" style="padding: 20px; margin-bottom: 20px; border-left: 4px solid #0066cc; background-color: #f8f9fa; border-radius: 0 4px 4px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">     <h4 style="margin-top: 0;">Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits</h4>     <p style="margin-bottom: 0;"><em>Under review at ICCAD 2025</em> | <strong>First Student Author</strong></p>   </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
-<span class='anchor' id='awards-honors'></span> -->
+<span class='anchor' id='awards'></span>
 ## 🏆 Selected Awards
 
 <div class="awards-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
@@ -248,6 +248,6 @@ redirect_from:
   </div> -->
 </div>
 <div style="text-align: center; margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
-  <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="_data\ShiyiXu_CV.pdf" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p>
+  <p style="margin-bottom: 0; color: #666;">Last updated: May 2025 | <a href="_data/ShiyiXu_CV.pdf" style="color: #0066cc; text-decoration: none; font-weight: bold;">Download CV</a></p>
 </div>
 
