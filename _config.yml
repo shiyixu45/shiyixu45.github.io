@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shenglu Hua's personal page"
-description              : "Major in Computer Science"
-repository               : "shengluhua/shengluhua.github.io"
+title                    : "Shiyi Xu's personal page"
+description              : "Major in Artificial Intelligence"
+repository               : "shiyixu45/shiyixu45.github.io"
 google_scholar_stats_use_cdn : true
 
 
 # Site Author
 author:
-  name             : "shenglu hua"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "BUPT"
+  name             : "shiyi xu"
+  avatar           : "images/cat.png"
+  bio              : "RUC"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  email            : "huashenglu@bupt.edu.cn"
+  email            : "shiyixu45@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -28,7 +28,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shengluhua"
+  github           : "shiyixu45"
   google_plus      :
   keybase          :
   instagram        :
