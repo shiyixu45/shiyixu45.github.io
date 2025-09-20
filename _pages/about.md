@@ -112,7 +112,7 @@ redirect_from:
       <span style="position: absolute; top: 15px; right: 15px; background-color:rgb(207, 81, 186); color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em;">Finished Research</span>
       <h3>ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests</h3>
       <p style="color: #666;"><strong>Shiyi Xu*</strong>, Yiwen Hu*, Yingqian Min, Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen</p>
-      <p style="color: #666;"><strong>Submitted to NeurIPS D&B 2025 | First Author</strong></p>
+      <p style="color: #666;"><strong>Accepted by NeurIPS D&B 2025 | First Author</strong></p>
       <div style="display: flex; flex-wrap: wrap; margin-top: 15px; align-items: center;">
         <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 15px;">
           <img src="images\ICPC-Eval.png" alt="ICPC-Eval" style="width: 100%; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
